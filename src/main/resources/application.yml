@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: payment-service
+  profiles:
+    active: dev
+
+lombok:
+  accessors:
+    chain: true
+#    fluent: true
+
+
+
+
