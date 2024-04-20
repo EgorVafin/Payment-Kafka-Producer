@@ -7,7 +7,6 @@ spring:
 lombok:
   accessors:
     chain: true
-#    fluent: true
 
 
 
